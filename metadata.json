@@ -1,0 +1,6 @@
+{
+  "name": "Neon Rogue: Cyber Survivor",
+  "description": "An addictive roguelite action game with challenging levels, daily rewards, fluid combat, and deep upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
